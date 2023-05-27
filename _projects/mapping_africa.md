@@ -1,11 +1,9 @@
 ---
-title: "#2 Mapping Africa"
-layout: single-portfolio
-excerpt: "<img src='/images/projects/reconcile.png' alt=''>"
+title: "Mapping Africa"
+image: /website/images/projects/ma.png
+excerpt: An active learning approach to develop a scalable, fast, and cost-effective land cover mapping system that combines human and machine intelligence.
 collection: projects
 order_number: 20
-header: 
-  og_image: "projects/ma.png"
 ---
 
 <p align="center"> <img src="/website/images/projects/ma.png" width="100%"></p>
