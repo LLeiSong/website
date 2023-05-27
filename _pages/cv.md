@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/website/files/pdf/lsong_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
-You can download a PDF copy of my CV [here](/website/files/pdf/lsong_cv.pdf).
+[PDF version here](https://lleisong.github.io/website/files/pdf/lsong_cv.pdf) (Updated in May 2023)
