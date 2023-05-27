@@ -11,6 +11,7 @@ title                    : "Lei Song"
 title_separator          : "-"
 name                     : &name "Lei Song"
 description              : &description "Postdoc in Geography"
+# url                      : http://127.0.0.1:4000/ # local test
 url                      : https://lleisong.github.io/website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LLeiSong/website"
@@ -175,19 +176,12 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  codedata:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -236,14 +230,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _codedata
   - scope:
       path: ""
-      type: talks
+      type: codedata
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:
