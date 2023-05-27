@@ -1,6 +1,6 @@
 ---
 title: "Agriculture-elephants"
-image: /website/images/portfolio/reconcile.png
+image: /images/projects/reconcile.png
 excerpt: Combining Spatially-explicit Simulation of Animal Movement and Earth Observation to Reconcile Agriculture and Wildlife Conservation.
 collection: projects
 order_number: 10

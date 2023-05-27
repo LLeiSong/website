@@ -1,6 +1,6 @@
 ---
 title: "Mapping Africa"
-image: /website/images/projects/ma.png
+image: /images/projects/ma.png
 excerpt: An active learning approach to develop a scalable, fast, and cost-effective land cover mapping system that combines human and machine intelligence.
 collection: projects
 order_number: 20
