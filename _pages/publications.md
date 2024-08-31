@@ -6,11 +6,23 @@ excerpt: "Publications"
 author_profile: true
 ---
 
-## Working Papers
+## Manuscript in prep
 
-**Song, L.**, Estes, A. B. & Estes, L. D. A national, multi-scale assessment of habitat connectivity of African savanna elephant (Loxodonta africana). Submitted to *Biological Conservation*.
+**Song, L.**, Frazier, A. E., Kedron, P., Araujo, D. S. A., Cui, D., Enquist, B. J., Maitner, B., Merow, C., Moulatlet, G. M., Nikolopoulos, E. I., & Roehrdanz, P. R. (In prep). Explainable artificial intelligence to interpret spatially-explicit impacts of future climate change on species distribution.
 
-**Song, L.**, Estes, A. B. & Estes, L. D. Cropland allocation to minimize agriculture-elephant conflict with consideration of biodiversity and carbon costs. To be submitted to the *Journal of Applied Ecology*.
+Kedron, P., **Song, L.**, Frazier, A. E., Yang, W. (In prep). Landscape connectivity moderates the effect protected areas have on tropical biodiversity.
+
+Bohner, T., Duncanson, L., Nikolopoulos, E. I., Frazier, A. E., Araujo, D. S. A., Brock, C., Hinojo-Hinojo, C., Krieger, J. M., Maitner, B., Merow, C., Moulatlet, G. M., Roehrdanz, P. R., **Song, L.**, & Enquist, B. J. (In prep). Future drought and mortality risk for the world’s tallest forests.
+
+## Manuscripts in review/revision
+
+**Song, L.**, Frazier, A. E., Estes, A. B., & Estes, L. D. (Under review). Landscape connectivity informs critical linkage zones for the conservation of African savanna elephant (Loxodonta africana) in Tanzania.
+
+**Song, L.**, Frazier, A. E., Crawford, C. L., Estes, A. B., & Estes, L. D. (Under review). Optimizing future cropland allocation in a biodiverse savanna by integrating agricultural benefits and ecological costs.
+
+Frazier, A. E. and **Song, L.** (Under Review). Artificial intelligence in landscape ecology: recent advances, perspectives, and opportunities.
+
+de Alcantara Araujo, D. S., Enquist, B.J., Frazier, A. E., Merow, C., Roehrdanz, P., Moulatlet, G., Zvoleff, A., **Song, L.**, Maitner, B. & Nikolopoulos, E. I.  (Under review). Global Future Drought Layers Based on Downscaled CMIP6 Models and Multiple Socioeconomic Pathways.
 
 ## Peer-reviewed Publications
 
@@ -25,3 +37,8 @@ Elmes, A., Estes, L., Avery, R., Caylor, K., ..., **Song, L.** ... & Lunga, D. (
 Shi, Y., & **Song, L.** (2015). Spatial Downscaling of Monthly TRMM Precipitation Based on EVI and Other Geospatial Variables Over the Tibetan Plateau From 2001 to 2012. *Mountain Research and Development*, 35(2), 180-194. [[<span style ="color:red">**PDF**</span>](https://doi.org/10.1659/MRD-JOURNAL-D-14-00119.1)]
 
 Shi, Y., **Song, L.**, Xia, Z., Lin, Y., Myneni, R. B., Choi, S., ... & Yang, F. (2015). Mapping Annual Precipitation across Mainland China in the Period 2001-2010 from TRMM3B43 Product Using Spatial Downscaling Approach. *Remote Sensing*, 7(5), 5849-5878. [[<span style ="color:red">**PDF**</span>](https://doi.org/10.3390/rs70505849)]
+
+## Preprints
+
+Khallaghi, S., Abedi, R., Abou Ali, H., Asipunu, M., Alatise, I., Ha, N., Luo, B., Mai, C., **Song, L.**, Wussah, A., Xiong, S., Zhang, Q., Estes, L. (2024). Generalization enhancement strategies to enable cross-year cropland mapping with convolutional neural networks trained using historical samples. arXiv preprint [[<span style ="color:red">**PDF**</span>](https://arxiv.org/abs/2408.06467)] 
+
