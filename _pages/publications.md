@@ -16,11 +16,11 @@ Bohner, T., Duncanson, L., Nikolopoulos, E. I., Frazier, A. E., Araujo, D. S. A.
 
 ## Manuscripts in review/revision
 
-**Song, L.**, Frazier, A. E., Estes, A. B., & Estes, L. D. (Under review). Landscape connectivity informs critical linkage zones for the conservation of African savanna elephant (Loxodonta africana) in Tanzania.
+Frazier, A. E. and **Song, L.** (In revision). Artificial intelligence in landscape ecology: recent advances, perspectives, and opportunities.
 
-**Song, L.**, Frazier, A. E., Crawford, C. L., Estes, A. B., & Estes, L. D. (Under review). Optimizing future cropland allocation in a biodiverse savanna by integrating agricultural benefits and ecological costs.
+**Song, L.**, Frazier, A. E., Estes, A. B., & Estes, L. D. (Under review). Landscape connectivity informs critical linkage zones for the conservation of African savanna elephant (Loxodonta africana) in Tanzania. [[<span style ="color:red">**Preprint**</span>](https://doi.org/10.31219/osf.io/wmg97)]
 
-Frazier, A. E. and **Song, L.** (Under Review). Artificial intelligence in landscape ecology: recent advances, perspectives, and opportunities.
+**Song, L.**, Frazier, A. E., Crawford, C. L., Estes, A. B., & Estes, L. D. (Under review). Optimizing future cropland allocation in a biodiverse savanna by integrating agricultural benefits and ecological costs. [[<span style ="color:red">**Preprint**</span>](https://doi.org/10.31219/osf.io/4xnwb)]
 
 de Alcantara Araujo, D. S., Enquist, B.J., Frazier, A. E., Merow, C., Roehrdanz, P., Moulatlet, G., Zvoleff, A., **Song, L.**, Maitner, B. & Nikolopoulos, E. I.  (Under review). Global Future Drought Layers Based on Downscaled CMIP6 Models and Multiple Socioeconomic Pathways.
 
