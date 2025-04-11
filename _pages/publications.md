@@ -8,22 +8,21 @@ author_profile: true
 
 ## Manuscript in prep
 
-Kedron, P., **Song, L.**, Frazier, A. E., Yang, W. (In prep). Landscape connectivity moderates the effect protected areas have on tropical biodiversity.
+**Song, L.**, Frazier, A.E., Kedron, P., Araujo, D.S., Enquist, B.J., Maitner, B., Merow, C., Moulatlet, G.M., Nikolopoulos, E.I. and Roehrdanz, P.R. (In prep). Multifaceted effects of global change on future mammal distributions revealed by explainable modeling..
 
 Bohner, T., Duncanson, L., Nikolopoulos, E. I., Frazier, A. E., Araujo, D. S. A., Brock, C., Hinojo-Hinojo, C., Krieger, J. M., Maitner, B., Merow, C., Moulatlet, G. M., Roehrdanz, P. R., **Song, L.**, & Enquist, B. J. (In prep). Future drought and mortality risk for the world’s tallest forests.
 
 ## Manuscripts in review/revision
 
-**Song, L.**, Frazier, A. E., Estes, A. B., & Estes, L. D. (Under review). Landscape connectivity informs critical linkage zones for the conservation of African savanna elephant (Loxodonta africana) in Tanzania. *Conservation Science and Practice*. [[<span style ="color:red">**Preprint**</span>](https://doi.org/10.31219/osf.io/wmg97)]
+**Song, L.**, Frazier, A. E., Estes, A. B., & Estes, L. D. (Under review). Landscape connectivity informs critical linkage zones for the conservation of African savanna elephant (*Loxodonta africana*) in Tanzania. [[<span style ="color:red">**Preprint**</span>](https://doi.org/10.31219/osf.io/wmg97)]
 
-**Song, L.**, Frazier, A. E., Crawford, C. L., Estes, A. B., & Estes, L. D. (Under review). Optimizing future cropland allocation in a biodiverse savanna by integrating agricultural benefits and ecological costs. *Ecological Indicators*. [[<span style ="color:red">**Preprint**</span>](https://doi.org/10.31219/osf.io/4xnwb)]
-
-de Alcantara Araujo, D. S., Enquist, B.J., Frazier, A. E., Merow, C., Roehrdanz, P., Moulatlet, G., Zvoleff, A., **Song, L.**, Maitner, B. & Nikolopoulos, E. I.  (Under review). Global Future Drought Layers Based on Downscaled CMIP6 Models and Multiple Socioeconomic Pathways. *Scientific Data*.
-
-Khallaghi, S., Abedi, R., Abou Ali, H., Asipunu, M., Alatise, I., Ha, N., Luo, B., Mai, C., **Song, L.**, Wussah, A., Xiong, S., Zhang, Q., Estes, L. (Under review). Generalization enhancement strategies to enable cross-year cropland mapping with convolutional neural networks trained using historical samples. *Remote sensing*. [[<span style ="color:red">**Preprint**</span>](https://arxiv.org/abs/2408.06467)]
-
+**Song, L.**, Frazier, A. E., Crawford, C. L., Estes, A. B., & Estes, L. D. (Under review). Optimizing future cropland allocation in a biodiverse savanna by integrating agricultural benefits and ecological costs. [[<span style ="color:red">**Preprint**</span>](https://doi.org/10.31219/osf.io/4xnwb)]
 
 ## Peer-reviewed Publications
+
+Araujo, D. S., Enquist, B. J., Frazier, A. E., Merow, C., Roehrdanz, P. R., Moulatlet, G. M., Zvoleff, A., **Song, L.**, Maitner, B., & Nikolopoulos, E. I. (2025). Global Future Drought Layers Based on Downscaled CMIP6 Models and Multiple Socioeconomic Pathways. Scientific Data, 12(1), 295.
+
+Khallaghi, S., Abedi, R., Abou Ali, H., Alemohammad, H., Dziedzorm Asipunu, M., Alatise, I., Ha, N., Luo, B., Mai, C., **Song, L.**, Wussah, A. O., Xiong, S., Yao, Y.-T., Zhang, Q., & Estes, L. D. (2025). Generalization Enhancement Strategies to Enable Cross-Year Cropland Mapping with Convolutional Neural Networks Trained Using Historical Samples. Remote Sensing, 17(3). [[<span style ="color:red">**PDF**</span>](https://doi.org/10.3390/rs17030474)].
 
 Frazier, A. E., & **Song, L.** (2025). Artificial Intelligence in Landscape Ecology: Recent Advances, Perspectives, and Opportunities. *Current Landscape Ecology Reports*, 10(1), 1-13. [[<span style ="color:red">**PDF**</span>](https://doi.org/10.1007/s40823-024-00103-7)]
 
