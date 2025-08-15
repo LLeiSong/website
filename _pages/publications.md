@@ -8,17 +8,21 @@ author_profile: true
 
 ## Manuscript in prep
 
-**Song, L.**, Frazier, A.E., Kedron, P., Araujo, D.S., Enquist, B.J., Maitner, B., Merow, C., Moulatlet, G.M., Nikolopoulos, E.I. and Roehrdanz, P.R. (In prep). Multifaceted effects of global change on future mammal distributions revealed by explainable modeling..
-
-Bohner, T., Duncanson, L., Nikolopoulos, E. I., Frazier, A. E., Araujo, D. S. A., Brock, C., Hinojo-Hinojo, C., Krieger, J. M., Maitner, B., Merow, C., Moulatlet, G. M., Roehrdanz, P. R., **Song, L.**, & Enquist, B. J. (In prep). Future drought and mortality risk for the world’s tallest forests.
+**Song, L.**, Frazier, A.E., Kedron, P., Araujo, D.S., Enquist, B.J., Maitner, B., Merow, C., Moulatlet, G.M., Nikolopoulos, E.I. and Roehrdanz, P.R. (In prep). Explainable Artificial Intelligence Reveals Spatially Divergent Effects of Global Change on Mammals.
 
 ## Manuscripts in review/revision
 
-**Song, L.**, Frazier, A. E., Estes, A. B., & Estes, L. D. (Under review). Landscape connectivity informs critical linkage zones for the conservation of African savanna elephant (*Loxodonta africana*) in Tanzania. [[<span style ="color:red">**Preprint**</span>](https://doi.org/10.31219/osf.io/wmg97)]
+**Song, L.**, Frazier, A. E., Crawford, C. L., Estes, A. B., & Estes, L. D. (Under revision). Optimizing future cropland allocation in a biodiverse savanna by integrating agricultural benefits and ecological costs. [[<span style ="color:red">**Preprint**</span>](https://doi.org/10.31219/osf.io/4xnwb)]
 
-**Song, L.**, Frazier, A. E., Crawford, C. L., Estes, A. B., & Estes, L. D. (Under review). Optimizing future cropland allocation in a biodiverse savanna by integrating agricultural benefits and ecological costs. [[<span style ="color:red">**Preprint**</span>](https://doi.org/10.31219/osf.io/4xnwb)]
+Bohner, T., Duncanson, L., Nikolopoulos, E., Frazier, A., Araujo, D., Brock, C., Cui, D., Hinojo-Hinojo, C., Krieger, J.M., Maitner, B.S., Moulatlet, G.M., Roehrdanz, P.R., **Song, L.**, Merow, C. and Enquist, B.J. (Under review). Forecasting global drought exposure reveals biome-specific risk to Earth’s forests and tallest trees.
+
+Moulatlet, G.M., Boyle, B., Feng, X., Frazier, A., Hinojo-Hinojo, C., Maitner, B.S., Merow, C., Newman, E.A., Roehrdanz, P.R., **Song, L.**, Villalobos, F., Marquet, P.A., Svenning, J.-C. and Enquist, B.J. (Under revision). General laws of biodiversity: climatic niches predict plant range size and ecological dominance globally.
+
+Moulatlet, G.M., Capparelli, M., Thomas, C., Boyle, B., Feng, X., Frazier, A., Hinojo-Hinojo, C., Herrera-Perez, J., Kajiki, L., Lechner, A., Maitner, B.S., Newman, E.A., Nikolopoulos, E., Roehrdanz, P.R., **Song, L.**, Valencia-Rodriguez, D., Yang, W., Merow, C., Silman, M., Villalobos, F., Macklin, M. and Enquist, B.J. (Under review). Amazon biodiversity is at risk from metal contamination due to mining activity.
 
 ## Peer-reviewed Publications
+
+**Song, L.**, Frazier, A. E., Estes, A. B., & Estes, L. D. (2025). A multi-scale approach for integrating species distribution models with landscape connectivity to identify critical linkage zones for African savanna elephants (Loxodonta africana). Ecological Modelling, 507, 111198. [[<span style ="color:red">**PDF**</span>](https://doi.org/10.1016/j.ecolmodel.2025.111198)] [[<span style ="color:red">**CODE**</span>](https://github.com/LLeiSong/eleDistribution)]
 
 Araujo, D. S., Enquist, B. J., Frazier, A. E., Merow, C., Roehrdanz, P. R., Moulatlet, G. M., Zvoleff, A., **Song, L.**, Maitner, B., & Nikolopoulos, E. I. (2025). Global Future Drought Layers Based on Downscaled CMIP6 Models and Multiple Socioeconomic Pathways. Scientific Data, 12(1), 295.
 

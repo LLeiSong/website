@@ -6,7 +6,9 @@ excerpt: "Teaching"
 author_profile: true
 ---
 
-## Instructor
+## Instructor/Co-instructor
+
+GEOG 274 Conservation GIS, University of California, Santa Barbara, 2025 Spring
 
 GEOG 346 [<span style ="color:red"> Geospatial Analysis with R</span>](https://agroimpacts.github.io/geospaar/), Clark University, 2021 Spring
 
