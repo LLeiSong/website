@@ -12,8 +12,8 @@ main:
   - title: "Code&Data"
     url: /codedata/
     
-  # - title: "Posts"
-  #   url: /posts/
+  - title: "Perspective students"
+    url: /perspective_students/
     
   - title: "CV"
     url: /files/pdf/lsong_cv.pdf

@@ -2,7 +2,6 @@
 layout: archive
 title: "Perspective students"
 permalink: /perspective_students/
-excerpt: "Perspective students"
 author_profile: true
 ---
 
