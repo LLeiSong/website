@@ -7,7 +7,29 @@ author_profile: true
 
 I welcome inquiries from prospective students.
 
-**Graduate students**: [The Department of Geography at Rutgers University](https://geography.rutgers.edu) is accepting applications for [PhD students](https://geography.rutgers.edu/academics/graduate-program/phd-program). If you are interested in working with me, I encourage you to reach out by email before the application deadline. Please include your CV along with a brief introduction that outlines your academic background, research experiences, specific interests, and why you feel I would be a good fit as your advisor.
+**Graduate students**: [The Department of Geography at Rutgers University](https://geography.rutgers.edu) is accepting applications for [PhD students](https://geography.rutgers.edu/academics/graduate-program/phd-program). 
+If you would like to work with me, please email me **before** the application deadline with:
 
-Each year we receive far more outstanding applications than we can accommodate, given the limited availability of RA and TA positions. If you intend to apply for your own funding, I encourage you to get in touch so we can discuss possible pathways. In the U.S., opportunities for external PhD funding include programs such as the [NSF Graduate Research Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) and the [NASA FINNEST Fellowship](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bF9C7B701-6405-FD55-6705-EB4B190646B8%7d&path=&method=init).
+- CV
+- One-page research statement (your background, key experiences, and a research plan for your future PhD study)
+- One code sample (GitHub link preferred)
+- One optional writing sample (if you have any)
 
+Given the volume of inquiries, I may only respond to emails that include all requested materials.
+
+**What I look for:**
+
+- Curiosity about people–nature–climate interactions
+- Experience in Python or R, plus GIS/remote sensing
+- Evidence you can finish projects and write clearly
+- Openness to collaboration and reproducible research
+
+**Research directions:**
+
+- Geospatial data science
+- Remote sensing
+- AI for ecology and conservation
+- Global change biology
+- Ecological modeling
+- Land cover mapping
+- Land use management
