@@ -6,9 +6,11 @@ excerpt: "Teaching"
 author_profile: true
 ---
 
-## Instructor/Co-instructor
+## Instructor
 
-GEOG 274 Conservation GIS, University of California, Santa Barbara, 2025 Spring
+01:450:101:01 Earth Systems, Rutgers University-New Brunswick, 2025 Fall
+
+GEOG 274 Conservation GIS, University of California, Santa Barbara, 2025 Spring (Co-Instructor)
 
 GEOG 346 [<span style ="color:red"> Geospatial Analysis with R</span>](https://agroimpacts.github.io/geospaar/), Clark University, 2021 Spring
 
