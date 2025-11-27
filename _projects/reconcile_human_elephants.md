@@ -32,11 +32,9 @@ Agriculture will lead to significant biodiversity loss in Africa within the next
 
 **Song, L.**, & Estes, L. (2023). itsdm: Isolation forest-based presence-only species distribution modelling and explanation in r. *Methods in Ecology and Evolution*, 14(3), 831-840. [[<span style ="color:red">**PDF**</span>](https://doi.org/10.1111/2041-210X.14067)] [[<span style ="color:red">**CODE**</span>](https://github.com/LLeiSong/itsdm)] [[<span style ="color:red">**DATA**</span>](https://osf.io/8mc4e/)]
 
-### Working papers
+**Song, L.**, Frazier, A. E., Crawford, C. L., Estes, A. B., & Estes, L. D. (2025). Optimizing future cropland allocation in a biodiverse savanna by integrating agricultural benefits and ecological costs. *Landscape Ecology*, 40(11), 1–18. [[<span style ="color:red">**PDF**</span>](https://link.springer.com/article/10.1007/s10980-025-02213-x)] [[<span style ="color:red">**CODE**</span>](https://github.com/LLeiSong/comTCA)]
 
-**Song, L.**, Estes, A. B. & Estes, L. D. A national, multi-scale assessment of habitat connectivity of African savanna elephant (Loxodonta africana). Submitted to *Biological Conservation*.
-
-**Song, L.**, Estes, A. B. & Estes, L. D. Cropland allocation to minimize agriculture-elephant conflict with consideration of biodiversity and carbon costs. To be submitted to the *Journal of Applied Ecology*.
+**Song, L.**, Frazier, A. E., Estes, A. B., & Estes, L. D. (2025). A multi-scale approach for integrating species distribution models with landscape connectivity to identify critical linkage zones for African savanna elephants (Loxodonta africana). Ecological Modelling, 507, 111198. [[<span style ="color:red">**PDF**</span>](https://doi.org/10.1016/j.ecolmodel.2025.111198)] [[<span style ="color:red">**CODE**</span>](https://github.com/LLeiSong/eleDistribution)]
 
 ### Disssertation
 
