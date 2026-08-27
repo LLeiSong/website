@@ -8,7 +8,11 @@ author_profile: true
 
 ## Instructor
 
-01:450:101:01 Earth Systems, Rutgers University-New Brunswick, 2025 Fall
+01:450:214 Conservation, Rutgers University-New Brunswick, 2026 Fall
+
+01:450:320 Spatial Data Analysis, Rutgers University-New Brunswick, 2025 Spring
+
+01:450:101:01 Earth Systems, Rutgers University-New Brunswick, 2025 Fall & Spring, 2026 Fall
 
 GEOG 274 Conservation GIS, University of California, Santa Barbara, 2025 Spring (Co-Instructor)
 
