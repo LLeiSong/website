@@ -4,6 +4,7 @@ image: "https://lleisong.github.io/website/images/projects/ma.png"
 excerpt: An active learning approach to develop a scalable, fast, and cost-effective land cover mapping system that combines human and machine intelligence.
 collection: projects
 order_number: 20
+date: 2023-05-20
 ---
 
 <p align="center"> <img src="/website/images/projects/ma.png" width="100%"></p>

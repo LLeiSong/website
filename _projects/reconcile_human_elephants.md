@@ -4,6 +4,7 @@ image: "https://lleisong.github.io/website/images/projects/reconcile.png"
 excerpt: Combining Spatially-explicit Simulation of Animal Movement and Earth Observation to Reconcile Agriculture and Wildlife Conservation.
 collection: projects
 order_number: 10
+date: 2023-05-27
 ---
 
 <p align="center"> <img src="/website/images/projects/reconcile.png" width="100%"></p>
