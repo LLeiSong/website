@@ -116,15 +116,6 @@
   &:hover .archive__item-title {
     text-decoration: none;
   }
-
-  .team__member-photo {
-    width: 250px;
-    max-width: calc(100% - 1em);
-    aspect-ratio: 1 / 1;
-    height: auto;
-    border-radius: 50%;
-    object-fit: cover;
-  }
 }
 
 
