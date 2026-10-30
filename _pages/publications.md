@@ -12,7 +12,7 @@ Montes-Bojorquez, M.G., Robles-Zazueta, C.A., Tinoco-Ojanguren, C., Enquist, B.J
 
 ## Manuscripts in review/revision
 
-Yang, W., Frazier, A.E., Kedron, P., **Song, L.**, Wu, J. and Nelson, T. (In revision). Three-dimensional approaches to assessing terrestrial habitat for species conservation: a systematic review.
+Yang, W., Frazier, A.E., Kedron, P., **Song, L.**, Wu, J. and Nelson, T. (Under review). Three-dimensional approaches to assessing terrestrial habitat for species conservation: a systematic review.
 
 Yang, W., **Song, L.**, Roehrdanz, P.R., McManus, N., Willett, D., Krieger, J., Noguera-Urbano, E., Rodriguez-Buritica, S., Ramos, K., Blair, M., Cruz-Rodríguez, C., Muñoz-R, C. and Frazier, A.E. (In revision). A Geographically Replicable Framework for Area of Habitat (AOH) Mapping at National and Sub-National Scales.
 
