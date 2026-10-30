@@ -23,3 +23,11 @@ GEOG 346 [<span style ="color:red"> Geospatial Analysis with R</span>](https://a
 GEOG 346 [<span style ="color:red"> Geospatial Analysis with R</span>](https://agroimpacts.github.io/geospaar/), Clark University, 2020 Spring & Fall
 
 GEOG 293 Introduction to Remote Sensing, Clark University, 2017 Fall
+
+## Class Activities
+
+### Field trip to Rutgers EcoPreserve
+
+Thursday, October 8, 2026 | Course: 450:214 Conservation
+
+<p align="center"> <img src="/website/images/teaching/ecopreserve_2026-10-08.png" width="443" alt="Conservation class field trip to Rutgers EcoPreserve on October 8, 2026"></p>
