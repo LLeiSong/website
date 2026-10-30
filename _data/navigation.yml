@@ -3,9 +3,6 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Team"
-    url: /team/
-    
   - title: "Publications"
     url: /publications/
 
@@ -14,6 +11,9 @@ main:
         
   - title: "Code&Data"
     url: /codedata/
+
+  - title: "Team"
+    url: /team/
     
   - title: "Perspective students"
     url: /perspective_students/

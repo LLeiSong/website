@@ -7,7 +7,7 @@ order_number: 5
 date: 2026-10-30
 ---
 
-<p align="center"> <img src="/website/images/projects/thermal_risk.png" width="100%" alt="Illustrative maps of warming and changes in temperature contributions to climatic suitability for the pale-throated sloth"></p>
+<p align="center"> <img src="/website/images/projects/thermal_risk.png" width="60%" alt="Illustrative maps of warming and changes in temperature contributions to climatic suitability for the pale-throated sloth"></p>
 
 ### Funding: Rutgers Research Council Award (2026–2028)
 ### Role: Principal Investigator
@@ -28,4 +28,4 @@ The figure above illustrates projected changes for the pale-throated sloth (*Bra
 
 ## Anticipated Outputs
 
-I plan to develop spatial assessments of thermal risk and a reproducible modeling framework for conservation research. Planned outputs include journal manuscripts, conference presentations, and publicly shared data and code through GitHub and the Open Science Framework. The framework can also be adapted to regional conservation planning with more detailed environmental and land-use data.
+We plan to develop spatial assessments of thermal risk and a reproducible modeling framework for conservation research. Planned outputs include journal manuscripts, conference presentations, and publicly shared data and code through GitHub and the Open Science Framework. The framework can also be adapted to regional conservation planning with more detailed environmental and land-use data.
