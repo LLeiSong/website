@@ -27,12 +27,11 @@ GEOG 293 Introduction to Remote Sensing, Clark University, 2017 Fall
 ## Class Activities
 
 <div class="list__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item teaching__activity" itemscope itemtype="http://schema.org/CreativeWork">
     <h3 class="archive__item-title" itemprop="headline">Field trip to Rutgers EcoPreserve</h3>
 
-    <img align="left" src="/website/images/teaching/ecopreserve_2026-10-08.jpg" width="250" style="padding:1em 1em .5em 0px" alt="Conservation class field trip to Rutgers EcoPreserve on October 8, 2026">
     <p class="page__meta">Thursday, October 8, 2026 | Course: 450:214 Conservation</p>
-    <p itemprop="description">The trip focused on observing local biodiversity, with an optional biodiversity hunt to photograph and identify plants and animals along the preserve’s trails.</p>
-    <br style="clear: both">
+    <p itemprop="description">The trip focused on observing local biodiversity, with a biodiversity hunt to photograph and identify plants and animals along the preserve’s trails.</p>
+    <img src="/website/images/teaching/ecopreserve_2026-10-08.jpg" width="100%" style="display:block" alt="Conservation class field trip to Rutgers EcoPreserve on October 8, 2026">
   </article>
 </div>
