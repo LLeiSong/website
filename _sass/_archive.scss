@@ -109,6 +109,30 @@
 
 
 /*
+   Team members
+   ========================================================================== */
+
+.team__member {
+  &:hover .archive__item-title {
+    text-decoration: none;
+  }
+
+  .team__member-photo {
+    float: left;
+    max-width: 100%;
+    height: auto;
+    padding: 1em 1em .5em 0px;
+
+    @include breakpoint(max-width $small) {
+      float: none;
+      display: block;
+      padding-right: 0;
+    }
+  }
+}
+
+
+/*
    Grid view
    ========================================================================== */
 
