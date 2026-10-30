@@ -28,4 +28,4 @@ The figure above illustrates projected changes for the pale-throated sloth (*Bra
 
 ## Anticipated Outputs
 
-We plan to develop spatial assessments of thermal risk and a reproducible modeling framework for conservation research. Planned outputs include journal manuscripts, conference presentations, and publicly shared data and code through GitHub and the Open Science Framework. The framework can also be adapted to regional conservation planning with more detailed environmental and land-use data.
+We plan to develop spatial assessments of thermal risk and a reproducible modeling framework for conservation research. The framework can also be adapted to regional conservation planning with more detailed environmental and land-use data.
