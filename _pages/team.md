@@ -14,7 +14,7 @@ toc: true
 
 <div class="list__item">
   <article class="archive__item team__member" itemscope itemtype="http://schema.org/Person">
-    <h3 class="archive__item-title" id="tianze-li" itemprop="name">Tianze Li</h3>
+    <h3 class="archive__item-title" id="tianze-li" itemprop="name">Tianze Li (<a href="mailto:tl1107@scarletmail.rutgers.edu">Email</a>)</h3>
 
     <img align="left" class="team__member-photo" src="{{ base_path }}/images/team/tianze.png" width="250" style="margin:1em 1em .5em 0px;width:250px;max-width:calc(100% - 1em);aspect-ratio:1 / 1;height:auto;border-radius:50%;object-fit:cover" alt="Tianze" itemprop="image">
     <p itemprop="description">Tianze is a PhD student in the Department of Geography at Rutgers University. He earned an M.S. in Geographic Information Science from the University at Buffalo and a B.E. in Remote Sensing Science and Technology from Beijing University of Civil Engineering and Architecture. He is interested in landscape ecology and using remote sensing to investigate vegetation dynamics under environmental change.</p>
@@ -27,7 +27,7 @@ toc: true
 
 <div class="list__item">
   <article class="archive__item team__member" itemscope itemtype="http://schema.org/Person">
-    <h3 class="archive__item-title" id="zizhen-dylan-gong" itemprop="name">Zizhen (Dylan) Gong</h3>
+    <h3 class="archive__item-title" id="zizhen-dylan-gong" itemprop="name">Zizhen (Dylan) Gong (<a href="mailto:zg222@scarletmail.rutgers.edu">Email</a>)</h3>
 
     <img align="left" class="team__member-photo" src="{{ base_path }}/images/team/Dylan.png" width="250" style="margin:1em 1em .5em 0px;width:250px;max-width:calc(100% - 1em);aspect-ratio:1 / 1;height:auto;border-radius:50%;object-fit:cover" alt="Tianze" itemprop="image">
     <p itemprop="description">Dylan is a third-year undergraduate student majoring in geography at Rutgers University. He is interested in applying GIS and remote sensing to research in urban planning and species distribution modeling (SDM).</p>
