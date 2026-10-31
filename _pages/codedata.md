@@ -1,10 +1,13 @@
 ---
 layout: archive
+title: "Code&Data"
 permalink: /codedata/
-author_profile: true
+author_profile: false
+toc: true
 ---
 
 ### All code and scripts are host on [my personal GitHub](https://github.com/LLeiSong) or [SSELP group GitHub](https://github.com/SSELP).
+{: .no_toc}
 
 ## Package
 

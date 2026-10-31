@@ -1,8 +1,10 @@
 ---
 layout: archive
+title: "Publications"
 permalink: /publications/
 excerpt: "Publications"
-author_profile: true
+author_profile: false
+toc: true
 ---
 
 ## Manuscript in prep

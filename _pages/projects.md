@@ -1,7 +1,9 @@
 ---
 layout: archive
+title: "Research Projects"
 permalink: /projects/
-author_profile: true
+author_profile: false
+toc: true
 ---
 
 Our team's research is driven by a shared commitment to biodiversity conservation and to understanding the complex dynamics among people, climate, and wildlife. Through our work, we aim to contribute to the broader fields of conservation and environmental management by developing new insights and innovative approaches to address pressing challenges in species conservation, human-wildlife interactions, and the ecological impacts of climate change and human activities.

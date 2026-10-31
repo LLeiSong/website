@@ -27,6 +27,65 @@
   }
 }
 
+/*
+   Archives with a table of contents
+   ========================================================================== */
+
+.archive--toc {
+  @include breakpoint($large) {
+    float: none;
+    width: 100%;
+    margin-right: 0;
+    padding-left: 0;
+  }
+
+  .archive__layout {
+    @include breakpoint($large) {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 16em;
+      column-gap: 2em;
+      align-items: start;
+    }
+  }
+
+  .archive__content {
+    min-width: 0;
+
+    @include breakpoint($large) {
+      grid-column: 1;
+      grid-row: 1;
+    }
+
+    h2, h3 {
+      scroll-margin-top: 1em;
+    }
+  }
+
+  .archive__toc {
+    margin-bottom: 2em;
+
+    @include breakpoint($large) {
+      grid-column: 2;
+      grid-row: 1;
+      position: -webkit-sticky;
+      position: sticky;
+      top: 2em;
+      max-height: calc(100vh - 4em);
+      overflow-y: auto;
+    }
+  }
+
+  .toc__menu {
+    a {
+      text-decoration: none;
+    }
+
+    li > ul li {
+      display: block;
+    }
+  }
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;

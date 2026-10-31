@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline">
+    <h3 class="archive__item-title" id="{{ post.title | slugify }}" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}" target="_blank">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><span class="sr-only">Permalink</span></a>
       {% else %}
