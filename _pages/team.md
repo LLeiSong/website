@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Team members"
 logo: "/images/logo/selp-logo-horizontal.jpg"
 logo_alt: "Spatial Ecology and Landscape Planning Group (SELP)"
 permalink: /team/

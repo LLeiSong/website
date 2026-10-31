@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Code&Data"
 permalink: /codedata/
 author_profile: true
 ---
