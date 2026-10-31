@@ -26,7 +26,7 @@
         <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.employer }}</li>
+        <li><img src="{{ '/images/icons/school.png' | absolute_url }}" alt="" aria-hidden="true" style="width:1em;height:1em;margin-right:.5em;vertical-align:-.125em">{{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -114,6 +114,9 @@
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true" style="padding-right: 1.5em;"></i>Google Scholar</a></li>
+      {% endif %}
+      {% if author.cv %}
+        <li><a href="{{ author.cv | absolute_url }}"><img src="{{ '/images/icons/resume-and-cv.png' | absolute_url }}" alt="" aria-hidden="true" style="width:1em;height:1em;margin-right:.5em;vertical-align:-.125em">CV</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>PubMed</a></li>
