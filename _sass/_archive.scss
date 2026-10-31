@@ -186,6 +186,32 @@
   &:hover .archive__item-title {
     text-decoration: none;
   }
+
+  &--speaker {
+    display: grid;
+    grid-template-columns: 100px minmax(0, 1fr);
+    gap: 1em;
+    align-items: start;
+    margin: 1em 0 2em;
+
+    @include breakpoint($small) {
+      grid-template-columns: 180px minmax(0, 1fr);
+    }
+
+    .teaching__activity-header {
+      grid-column: 1 / -1;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .archive__item-title {
+      margin-top: 0;
+    }
+  }
 }
 
 
