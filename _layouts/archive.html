@@ -24,9 +24,9 @@ layout: default
     {% endunless %}
     {% if page.toc %}
       <div class="archive__layout">
-        <aside class="archive__toc" aria-label="On this page">
+        <aside class="archive__toc" aria-label="{{ page.title | escape }}">
           <nav class="toc">
-            <header><h4 class="nav__title"><i class="fas fa-align-justify" aria-hidden="true"></i> On this page</h4></header>
+            <header><h4 class="nav__title"><i class="fas fa-align-justify" aria-hidden="true"></i> {{ page.title | escape }}</h4></header>
             {% comment %}Treat collection cards before the first section as top-level contents entries.{% endcomment %}
             {% assign toc_sections = content | replace: '<span class="sr-only">Permalink</span>', '' | split: '<h2' %}
             {% assign toc_intro = toc_sections | first | replace: '<h3', '<h2' | replace: '</h3>', '</h2>' %}
