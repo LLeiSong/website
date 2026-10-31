@@ -16,6 +16,9 @@ layout: default
   {% include sidebar.html %}
 
   <div class="archive">
+    {% if page.logo %}
+      <img src="{{ page.logo | absolute_url }}" alt="{{ page.logo_alt | default: page.title | escape }}" style="display:block;width:100%;max-width:600px;height:auto;margin:0 0 1em">
+    {% endif %}
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}

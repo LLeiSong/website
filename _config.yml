@@ -83,6 +83,8 @@ analytics:
 author:
   name             : "Lei Song, PhD\n(she/her/她)"
   avatar           : "profile.png"
+  logo             : "/images/logo/selp-logo-stacked.jpg"
+  logo_alt         : "Spatial Ecology and Landscape Planning Group (SELP)"
   bio              : "Assistant professor"
   location         : "Department of Geography"
   employer         : "Rutgers University–New Brunswick"
