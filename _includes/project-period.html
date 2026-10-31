@@ -1,0 +1,3 @@
+{% if include.project.project_period %}
+  <p class="page__meta">Project period: {{ include.project.project_period | escape }}{% if include.project.project_status %} | {{ include.project.project_status | escape }}{% endif %}</p>
+{% endif %}

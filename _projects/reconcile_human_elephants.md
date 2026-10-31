@@ -5,6 +5,8 @@ excerpt: Combining Spatially-explicit Simulation of Animal Movement and Earth Ob
 collection: projects
 order_number: 10
 date: 2023-05-27
+project_period: "2020–2023"
+project_status: "Completed"
 ---
 
 <p align="center"> <img src="/website/images/projects/reconcile.png" width="100%"></p>

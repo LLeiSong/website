@@ -5,6 +5,8 @@ excerpt: Reassessing thermal risk in a compound climatic context for global biod
 collection: projects
 order_number: 5
 date: 2026-10-30
+project_period: "2026–2028"
+project_status: "Ongoing"
 ---
 
 <p align="center"> <img src="/website/images/projects/thermal_risk.png" width="60%" alt="Illustrative maps of warming and changes in temperature contributions to climatic suitability for the pale-throated sloth"></p>
