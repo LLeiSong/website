@@ -28,8 +28,8 @@ author_profile: true
   <article class="archive__item team__member" itemscope itemtype="http://schema.org/Person">
     <h3 class="archive__item-title" itemprop="name">Zizhen (Dylan) Gong</h3>
 
-    <img align="left" class="team__member-photo" src="{{ base_path }}/images/team/Dyland.png" width="250" style="margin:1em 1em .5em 0px;width:250px;max-width:calc(100% - 1em);aspect-ratio:1 / 1;height:auto;border-radius:50%;object-fit:cover" alt="Tianze" itemprop="image">
-    <p itemprop="description">Dylan is a third-year undergraduate student majoring in geography at Rutgers University. Dylan is interested in applying GIS and remote sensing to research in urban planning and species distribution modeling (SDM).</p>
+    <img align="left" class="team__member-photo" src="{{ base_path }}/images/team/Dylan.png" width="250" style="margin:1em 1em .5em 0px;width:250px;max-width:calc(100% - 1em);aspect-ratio:1 / 1;height:auto;border-radius:50%;object-fit:cover" alt="Tianze" itemprop="image">
+    <p itemprop="description">Dylan is a third-year undergraduate student majoring in geography at Rutgers University. He is interested in applying GIS and remote sensing to research in urban planning and species distribution modeling (SDM).</p>
     <p><strong>Fun fact about Dylan:</strong> He almost never leaves things behind, unless they’re umbrellas or water bottles. He once forgot his water bottle on a hike in South America and ended up sharing a water source with a herd of horses! As for umbrellas, he has simply decided that getting rained on is easier than keeping track of one.</p>
     
     <br style="clear: both">
