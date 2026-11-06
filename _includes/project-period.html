@@ -1,3 +1,3 @@
 {% if include.project.project_period %}
-  <p class="page__meta">Project period: {{ include.project.project_period | escape }}{% if include.project.project_status %} | {{ include.project.project_status | escape }}{% endif %}</p>
+  <p class="page__meta">Project period: {{ include.project.project_period | escape }}{% if include.project.project_status %} | {% if include.status_label %}<span class="project__status project__status--{{ include.project.project_status | slugify }}">{{ include.project.project_status | escape }}</span>{% else %}{{ include.project.project_status | escape }}{% endif %}{% endif %}</p>
 {% endif %}

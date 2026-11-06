@@ -168,6 +168,170 @@
 
 
 /*
+   Research projects
+   ========================================================================== */
+
+.projects__intro {
+  margin-bottom: 1.5em;
+  line-height: 1.65;
+}
+
+.projects__list {
+  .list__item + .list__item {
+    border-top: 1px solid $border-color;
+  }
+}
+
+.project__item {
+  display: grid;
+  gap: 1.5em;
+  align-items: start;
+  padding: 1.75em 0;
+
+  @include breakpoint($small) {
+    grid-template-columns: minmax(0, 32%) minmax(0, 1fr);
+  }
+
+  &:hover .archive__item-title {
+    text-decoration: none;
+  }
+
+  .archive__item-title {
+    margin: 0 0 0.5em;
+    line-height: 1.4;
+
+    a {
+      text-decoration: none;
+
+      &:hover, &:focus-visible {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .page__meta {
+    margin: 0 0 0.9em;
+    color: $dark-gray;
+    line-height: 1.8;
+  }
+
+  .archive__item-excerpt {
+    margin: 0 0 0.9em;
+    font-size: 1em;
+    line-height: 1.6;
+
+    p {
+      margin: 0;
+    }
+  }
+}
+
+.project__media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 340px;
+  aspect-ratio: 4 / 3;
+  padding: 0.5em;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  overflow: hidden;
+  background: $background-color;
+
+  @include breakpoint($small) {
+    max-width: none;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  &--video {
+    aspect-ratio: 16 / 9;
+    padding: 0;
+
+    iframe {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
+.project__body {
+  min-width: 0;
+
+  &:only-child {
+    grid-column: 1 / -1;
+  }
+}
+
+.project__status {
+  display: inline-block;
+  padding: 0 0.5em;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: $lighter-gray;
+
+  &--ongoing {
+    color: $link-color-hover;
+    border-color: mix(#fff, $link-color, 80%);
+    background: mix(#fff, $link-color, 97%);
+  }
+}
+
+.archive .project__link {
+  color: $link-color-hover;
+  font-size: 0.875em;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:hover, &:focus-visible {
+    text-decoration: underline;
+  }
+}
+
+.projects__students {
+  margin-top: 2em;
+  padding-top: 1.5em;
+  border-top: 1px solid $border-color;
+
+  > h2 {
+    margin: 0 0 0.25em;
+  }
+}
+
+.projects__student {
+  padding: 1.5em 0;
+
+  & + .projects__student {
+    border-top: 1px solid $border-color;
+  }
+
+  h3 {
+    margin: 0 0 0.65em;
+    line-height: 1.4;
+
+    & + p {
+      color: $dark-gray;
+      font-size: 0.875em;
+    }
+  }
+
+  p {
+    line-height: 1.6;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+
+/*
    Team members
    ========================================================================== */
 
