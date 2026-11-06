@@ -9,7 +9,7 @@ toc: true
 
 01:450:214 Conservation, Rutgers University-New Brunswick, 2026 Fall
 
-01:450:320 Spatial Data Analysis, Rutgers University-New Brunswick, 2026 Spring
+01:450:320 [<span style ="color:red"> Spatial Data Analysis</span>](https://sselp.github.io/sdawr/), Rutgers University-New Brunswick, 2026 Spring
 
 01:450:101:01 Earth Systems, Rutgers University-New Brunswick, 2025 Fall, 2026 Spring & Fall
 
