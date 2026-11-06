@@ -7,8 +7,6 @@ author_profile: false
 toc: true
 ---
 
-## Instructor
-
 01:450:214 Conservation, Rutgers University-New Brunswick, 2026 Fall
 
 01:450:320 Spatial Data Analysis, Rutgers University-New Brunswick, 2026 Spring
