@@ -17,7 +17,7 @@ toc: true
     <h3 class="archive__item-title" id="tianze-li" itemprop="name">Tianze Li (he/him/他) <a href="mailto:tl1107@scarletmail.rutgers.edu" aria-label="Email Tianze Li"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a></h3>
 
     <img align="left" class="team__member-photo" src="{{ base_path }}/images/team/tianze.png" width="250" style="margin:1em 1em .5em 0px;width:250px;max-width:calc(100% - 1em);aspect-ratio:1 / 1;height:auto;border-radius:50%;object-fit:cover" alt="Tianze" itemprop="image">
-    <p itemprop="description">Tianze is a PhD student in the Department of Geography at Rutgers University. He earned an M.S. in Geographic Information Science from the University at Buffalo and a B.E. in Remote Sensing Science and Technology from Beijing University of Civil Engineering and Architecture. He is interested in landscape ecology and using remote sensing to investigate vegetation dynamics under environmental change.</p>
+    <p itemprop="description">Tianze is a first-year PhD student in the Department of Geography at Rutgers University. He earned an M.S. in Geographic Information Science from the University at Buffalo and a B.E. in Remote Sensing Science and Technology from Beijing University of Civil Engineering and Architecture. He is interested in landscape ecology and using remote sensing to investigate vegetation dynamics under environmental change.</p>
     <p><a href="https://scholar.google.com/citations?hl=en&amp;user=wsQpeyQAAAAJ"><span style ="color:red">Google Scholar</span></a> | <a href="https://github.com/TLi-14"><span style ="color:red">GitHub</span></a></p>
     <br style="clear: both">
   </article>
