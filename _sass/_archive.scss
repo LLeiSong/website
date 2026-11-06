@@ -325,6 +325,124 @@
 
 
 /*
+   Research highlights
+   ========================================================================== */
+
+.research-highlight {
+  padding: 1.5em 0 2em;
+  border-top: 1px solid $border-color;
+
+  & + .research-highlight {
+    margin-top: 1em;
+  }
+
+  h2 {
+    margin: 0 0 0.75em;
+    color: $text-color;
+    font-size: 1.5em;
+    line-height: 1.2;
+  }
+
+  p {
+    line-height: 1.75;
+  }
+}
+
+.research-highlight__header {
+  margin-bottom: 1.5em;
+}
+
+.research-highlight__meta {
+  margin: 0 0 0.5em;
+  color: $dark-gray;
+  font-size: 0.875em;
+}
+
+.research-highlight__story {
+  display: flow-root;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.research-highlight__figure {
+  clear: both;
+  display: block;
+  width: 100%;
+  max-width: 440px;
+  margin: 1.5em auto;
+
+  > a {
+    display: block;
+
+    &:hover img {
+      box-shadow: none;
+    }
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 0.65em;
+    border-radius: 0;
+  }
+
+  figcaption {
+    margin: 0;
+    font-size: 0.8em;
+    line-height: 1.5;
+  }
+}
+
+.research-highlight__publication {
+  margin: 0 0 1.5em;
+  padding: 1.25em 0;
+  border-top: 3px solid $border-color;
+  border-bottom: 3px solid $border-color;
+  font-family: $sans-serif;
+  font-weight: bold;
+  text-align: center;
+
+  @include breakpoint($small) {
+    float: right;
+    width: 38%;
+    margin: 0 0 1em 2em;
+  }
+
+  > p:first-child {
+    margin: 0;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.research-highlight__links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5em 1em;
+  margin-bottom: 0;
+
+  a {
+    color: $link-color-hover;
+    font-size: 0.875em;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover, &:focus-visible {
+      text-decoration: underline;
+    }
+  }
+}
+
+
+/*
    Team members
    ========================================================================== */
 
