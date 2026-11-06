@@ -1,0 +1,24 @@
+{% include base_path %}
+{% assign ordered_projects = site.projects | sort:"order_number" %}
+
+<nav class="project__navigation" aria-labelledby="other-projects-title">
+  <div class="project__navigation-header">
+    <h2 id="other-projects-title">Explore other projects</h2>
+    <a class="project__back" href="{{ base_path }}/projects/"><span aria-hidden="true">&larr;</span> All projects</a>
+  </div>
+  <ul class="project__navigation-list">
+    {% for project in ordered_projects %}
+      {% unless project.url == page.url %}
+        <li>
+          <a class="project__navigation-link" href="{{ base_path }}{{ project.url }}">
+            <span class="project__navigation-title">{{ project.title | escape }}</span>
+            {% if project.project_period %}
+              <span class="project__navigation-meta">{{ project.project_period | escape }}{% if project.project_status %} &middot; {{ project.project_status | escape }}{% endif %}</span>
+            {% endif %}
+            <span class="project__navigation-more">View project <span aria-hidden="true">&rarr;</span></span>
+          </a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</nav>

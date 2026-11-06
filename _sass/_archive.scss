@@ -271,7 +271,7 @@
 
   &--ongoing {
     color: $link-color-hover;
-    border-color: mix(#fff, $link-color, 80%);
+    border: 0;
     background: mix(#fff, $link-color, 97%);
   }
 }
