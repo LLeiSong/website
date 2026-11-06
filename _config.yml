@@ -224,13 +224,13 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
       type: projects
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _codedata

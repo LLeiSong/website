@@ -198,15 +198,8 @@
 
   .archive__item-title {
     margin: 0 0 0.5em;
+    color: $text-color;
     line-height: 1.4;
-
-    a {
-      text-decoration: none;
-
-      &:hover, &:focus-visible {
-        text-decoration: underline;
-      }
-    }
   }
 
   .page__meta {
