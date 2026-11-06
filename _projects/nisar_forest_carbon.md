@@ -1,5 +1,6 @@
 ---
 title: "Aboveground Woody Biomass and Ecosystem Dynamics"
+detail_title: "Resolving Aboveground Woody Biomass and Ecosystem Dynamics with NISAR and Ecological Scaling Theory"
 image: "https://lleisong.github.io/website/images/projects/nisar_forest_carbon.svg"
 excerpt: Linking NISAR radar observations with ecological theory and geospatial AI to map aboveground woody biomass and understand how forests respond to environmental stress and climate change.
 collection: projects
